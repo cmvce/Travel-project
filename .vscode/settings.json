@@ -1,0 +1,5 @@
+{
+    "prettier.htmlWhitespaceSensitivity": "strict",
+    "debug.allowBreakpointsEverywhere": false,
+    "diffEditor.renderSideBySideInlineBreakpoint": 900
+}
